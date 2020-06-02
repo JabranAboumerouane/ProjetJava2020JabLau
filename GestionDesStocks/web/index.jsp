@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$ une page web erye
+  $END$ une page web eryecfbncf
   </body>
 </html>
