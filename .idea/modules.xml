@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GestionDesStocks/GestionDesStocks.iml" filepath="$PROJECT_DIR$/GestionDesStocks/GestionDesStocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetJava2020JabLau.iml" filepath="$PROJECT_DIR$/.idea/ProjetJava2020JabLau.iml" />
+    </modules>
+  </component>
+</project>
