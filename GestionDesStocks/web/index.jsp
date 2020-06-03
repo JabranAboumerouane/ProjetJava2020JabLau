@@ -8,9 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Welcome</title>
   </head>
   <body>
-  $END$ une page web eryecfbncf
+        <h1>Identifiez-vous afin d'accéder à la page 1</h1>
+
+ <form action="src/login" method="post">
+    <p>Nom: <input name="nom" type="text"> </p>
+    <p>Password: <input name="passw" type="password"></p>
+    <input type="submit" value="valider">
+ </form>
   </body>
 </html>
